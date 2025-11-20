@@ -1,1 +1,1 @@
-"here we doing fetch and rebase opertion"
+"Fetch and rebase"
